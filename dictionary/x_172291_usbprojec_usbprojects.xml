@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="usbProjects" max_length="40" name="x_172291_usbprojec_usbprojects" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Idea implemented" max_length="40" name="u_boolean_4" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="process" label="Idea type" max_length="40" name="u_choice_3" type="string">
+            <choice>
+                <element label="Cost Savings" sequence="0" value="cost"/>
+                <element label="Process Improvement" sequence="1" value="process"/>
+                <element label="Team Building" sequence="2" value="team"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Short description" mandatory="true" max_length="125" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" mandatory="true" max_length="1000" name="u_string_2" type="string"/>
+    </element>
+</database>

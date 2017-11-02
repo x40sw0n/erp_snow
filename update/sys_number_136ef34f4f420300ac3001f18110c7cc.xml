@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_172291_usbprojec_usbprojects">x_172291_usbprojec_usbprojects</category>
+        <maximum_digits>6</maximum_digits>
+        <number>3000</number>
+        <prefix>USB</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-31 14:32:48</sys_created_on>
+        <sys_id>136ef34f4f420300ac3001f18110c7cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>USB</sys_name>
+        <sys_package display_value="usbProject" source="x_172291_usbprojec">1a8df30f4f420300ac3001f18110c76f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="usbProject">1a8df30f4f420300ac3001f18110c76f</sys_scope>
+        <sys_update_name>sys_number_136ef34f4f420300ac3001f18110c7cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-31 14:32:48</sys_updated_on>
+    </sys_number>
+</record_update>
