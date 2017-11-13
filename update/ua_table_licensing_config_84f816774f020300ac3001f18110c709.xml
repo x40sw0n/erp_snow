@@ -13,13 +13,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-10-31 14:32:48</sys_created_on>
-        <sys_id>976ef34f4f420300ac3001f18110c7c6</sys_id>
+        <sys_id>84f816774f020300ac3001f18110c709</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_172291_usbprojec_usbprojects</sys_name>
         <sys_package display_value="usbProject" source="x_172291_usbprojec">1a8df30f4f420300ac3001f18110c76f</sys_package>
         <sys_policy/>
         <sys_scope display_value="usbProject">1a8df30f4f420300ac3001f18110c76f</sys_scope>
-        <sys_update_name>ua_table_licensing_config_976ef34f4f420300ac3001f18110c7c6</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_84f816774f020300ac3001f18110c709</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-10-31 14:32:48</sys_updated_on>
     </ua_table_licensing_config>

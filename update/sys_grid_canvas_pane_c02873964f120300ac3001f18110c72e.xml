@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA New Tab">fb1833964f120300ac3001f18110c7e2</grid_canvas>
+        <height>4</height>
+        <portal_widget display_value="Created 2017-11-10 08:25:31">7f1833964f120300ac3001f18110c7ea</portal_widget>
+        <posx>8</posx>
+        <posy>40</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-10 16:25:31</sys_created_on>
+        <sys_id>c02873964f120300ac3001f18110c72e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fb1833964f120300ac3001f18110c7e2</sys_name>
+        <sys_package display_value="usbProject" source="x_172291_usbprojec">1a8df30f4f420300ac3001f18110c76f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="usbProject">1a8df30f4f420300ac3001f18110c76f</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_c02873964f120300ac3001f18110c72e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-10 16:25:31</sys_updated_on>
+        <width>4</width>
+    </sys_grid_canvas_pane>
+</record_update>

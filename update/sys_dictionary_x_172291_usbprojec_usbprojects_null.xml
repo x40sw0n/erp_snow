@@ -52,15 +52,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-10-31 14:32:48</sys_created_on>
-        <sys_id>d36ef34f4f420300ac3001f18110c7a9</sys_id>
+        <sys_id>80f8d2774f020300ac3001f18110c7e2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_172291_usbprojec_usbprojects</sys_name>
         <sys_package display_value="usbProject" source="x_172291_usbprojec">1a8df30f4f420300ac3001f18110c76f</sys_package>
         <sys_policy/>
         <sys_scope display_value="usbProject">1a8df30f4f420300ac3001f18110c76f</sys_scope>
-        <sys_update_name>sys_dictionary_x_172291_usbprojec_usbprojects_null</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-10-31 14:32:48</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_172291_usbprojec_usbprojects_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-11-02 15:04:50</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA New Tab">fb1833964f120300ac3001f18110c7e2</canvas_page>
+        <name>New Tab</name>
+        <page display_value="PA New Tab">ff1833964f120300ac3001f18110c7e1</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-10 16:25:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ff1833964f120300ac3001f18110c7e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="usbProject" source="x_172291_usbprojec">1a8df30f4f420300ac3001f18110c76f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="usbProject">1a8df30f4f420300ac3001f18110c76f</sys_scope>
+        <sys_update_name>pa_tabs_ff1833964f120300ac3001f18110c7e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-10 16:25:30</sys_updated_on>
+    </pa_tabs>
+</record_update>
